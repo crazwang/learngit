@@ -6,4 +6,6 @@ the dev branch
 
 the master try
 
-the dev try modified
+the dev try
+
+the bug repire
